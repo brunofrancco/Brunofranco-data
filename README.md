@@ -33,7 +33,6 @@
  
 ### Libraries:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0D1117)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0D1117)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&labelColor=0D1117)&nbsp;
@@ -41,8 +40,8 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=0D1117)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=3F4F75&labelColor=0D1117)&nbsp;
 
-
-
+### Database
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
