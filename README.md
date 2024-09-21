@@ -29,9 +29,8 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 ### Libraries:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0D1117)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0D1117)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0D1117)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&labelColor=0D1117)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=for-the-badge&logo=seaborn&labelColor=0D1117)&nbsp;
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=0D1117)&nbsp;
