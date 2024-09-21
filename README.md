@@ -41,7 +41,13 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Cloud Platforms:
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=google-cloud&labelColor=0D1117)&nbsp;
+
 ### Data Visualization:
+![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=tableau&labelColor=0D1117)&nbsp;
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-0D1117?style=for-the-badge&logo=lookerstudio&labelColor=0D1117)&nbsp;
+
 ### Version Control:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
