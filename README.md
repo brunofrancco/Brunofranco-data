@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Silva;I'm+32+years+old;I+am+from+Brasília,+DF;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brunosilva-data&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunosilva-data&layout=compact&hide_border=true&title_color=40E0D0&text_color=40E0D0&bg_color=0d1117" />
+  <img width="52.5%" height="250px" src="https://github-readme-stats.vercel.app/api?username=Brunosilva-data&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Silva github stats" /> 
+  <img width="46.8%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunosilva-data&layout=compact&hide_border=true&title_color=40E0D0&text_color=40E0D0&bg_color=0d1117" />
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brunosilva-data&bg_color=000000&color=40E0D0&line=40E0D0&point=40E0D0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
