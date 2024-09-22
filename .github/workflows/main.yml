@@ -33,7 +33,6 @@ jobs:
             gray: "#4D4D4D"  # cor para quadrados (cinza escuro)
             green: "#00FF00"  # cor principal da cobrinha (verde)
             light-green: "#66FF66"  # cor clara para bordas ou detalhes da cobrinha
-          snake_color: "#66FF66"  # cor da cobrinha
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>, or as github page
