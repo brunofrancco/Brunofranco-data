@@ -18,58 +18,18 @@
 </div>
 
 
- 
-### Programming Language: 🔥
-<div style="flex-basis: 48%; text-align: center;">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <p>Python</p>
-</div>
- 
-### Tools & Frameworks:
-<div style="flex-basis: 48%;">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
-       <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=40E0D0&center=true&vCenter=true&width=1000&lines=Skills+Overview;Programming+Language+%3A+Python;Tools+and+Frameworks;Libraries;Database+%3A+MySQL;Cloud+Platforms+%3A+AWS+and+Google+Cloud;Data+Visualization+%3A+Tableau;Version+Control+%3A+Git+and+GitHub)](https://git.io/typing-svg)
 
 
- 
-### Libraries:
-<div style="flex-basis: 48%;">
-    <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-    <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-    <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">
-    <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-    <img align="center" alt="Plotly" height="30" width="40" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png">
-</div>
+| Programming Language | Tools & Frameworks                                | Libraries                                                                                                                                         | Database        | Cloud Platforms                                       | Data Visualization                              | Version Control                          |
+|----------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------|-----------------------------------------------|-------------------------------------------|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/><br>Python</div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="30"/><br>Jupyter</div> <br> <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30"/><br>VS Code</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/><br>Pandas</div> <br> <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/><br>NumPy</div> <br> <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30"/><br>Matplotlib</div> <br> <div align="center"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30"/><br>Seaborn</div> <br> <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/><br>Scikit-learn</div> <br> <div align="center"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="30"/><br>Plotly</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/><br>MySQL</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/><br>AWS</div> <br> <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/><br>Google Cloud</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/><br>Looker Studio</div> <br> <div align="center"><img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="80"/><br>Tableau</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/><br>Git</div> <br> <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/><br>GitHub</div> |
 
 
 
-### Database:
-<div style="flex-basis: 48%; text-align: center;">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
 
 
 
-### Cloud Platforms:
-<div style="flex-basis: 48%;">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-</div>
-
-### Data Visualization:
-<div style="flex-basis: 48%;">
-    <img align="center" alt="Looker Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
-    <img align="center" alt="Tableau" height="30" width="100" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png">
-</div>
-
-
-### Version Control:
-<div style="flex-basis: 48%;">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
 
 
 <div align="center">
