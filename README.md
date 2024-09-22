@@ -18,7 +18,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=40E0D0&center=true&vCenter=true&width=1000&lines=Skills+Overview;Programming+Language+%3A+Python;Tools+and+Frameworks;Libraries;Database+%3A+MySQL;Cloud+Platforms+%3A+AWS+and+Google+Cloud;Data+Visualization+%3A+Tableau;Version+Control+%3A+Git+and+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=1000&lines=Skills+Overview;Programming+Language+%3A+Python;Tools+and+Frameworks;Libraries;Database+%3A+MySQL;Cloud+Platforms+%3A+AWS+and+Google+Cloud;Data+Visualization+%3A+Tableau;Version+Control+%3A+Git+and+GitHub)](https://git.io/typing-svg)
 
 
 | Programming Language | Tools & Frameworks                                | Libraries                                                                                                                                         | Database        | Cloud Platforms                                       | Data Visualization                              | Version Control                          |
