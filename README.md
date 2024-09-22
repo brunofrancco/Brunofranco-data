@@ -19,37 +19,59 @@
 
 
  
-### skills: 🔥
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+### Programming Language: 🔥
+<div style="flex-basis: 48%; text-align: center;">
+    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <p>Python</p>
+</div>
  
 ### Tools & Frameworks:
-![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<div style="flex-basis: 48%;">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
+       <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+</div>
+
+
  
 ### Libraries:
-![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0D1117)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0D1117)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&labelColor=0D1117)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=for-the-badge&logo=seaborn&labelColor=0D1117)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=0D1117)&nbsp;
-![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=3F4F75&labelColor=0D1117)&nbsp;
+<div style="flex-basis: 48%;">
+    <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+    <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+    <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">
+    <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+    <img align="center" alt="Plotly" height="30" width="40" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png">
+</div>
+
+
 
 ### Database:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<div style="flex-basis: 48%; text-align: center;">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <p>MySQL</p>
+</div>
+
+
 
 ### Cloud Platforms:
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=google-cloud&labelColor=0D1117)&nbsp;
+<div style="flex-basis: 48%;">
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+</div>
 
 ### Data Visualization:
-![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=tableau&labelColor=0D1117)&nbsp;
-![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-0D1117?style=for-the-badge&logo=lookerstudio&labelColor=0D1117)&nbsp;
+<div style="flex-basis: 48%;">
+    <img align="center" alt="Looker Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+    <img align="center" alt="Tableau" height="30" width="100" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png">
+</div>
+
 
 ### Version Control:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<div style="flex-basis: 48%;">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
