@@ -48,7 +48,6 @@
 ### Database:
 <div style="flex-basis: 48%; text-align: center;">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <p>MySQL</p>
 </div>
 
 
