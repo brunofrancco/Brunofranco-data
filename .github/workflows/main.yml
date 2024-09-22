@@ -30,8 +30,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=palette-name&border=true
           palette: |
-            green: "#00ff00"  # cor principal
-            light-green: "#66ff66"  # cor clara para bordas ou partes mais claras
+            gray: "#4D4D4D"  # cor para quadrados (cinza escuro)
+            green: "#00ff00"  # cor principal da cobrinha
+            light-green: "#66ff66"  # cor clara para bordas ou partes mais claras da cobrinha
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>, or as github page
