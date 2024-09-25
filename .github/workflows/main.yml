@@ -1,4 +1,4 @@
-name: generate animation mod
+name: generate animation
 
 on:
   # run automatically every 24 hours
@@ -6,12 +6,12 @@ on:
     - cron: "0 */24 * * *"
   
   # allows to manually run the job at any time
-  workflow_dispatch:
-
+  workflow_dispatch:  # Gatilho manual configurado
+  
   # run on every push on the master branch
   push:
     branches:
-      - master
+      - master  # Certifique-se de que está no branch principal
 
 jobs:
   generate:
@@ -30,19 +30,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=palette-name&border=true
           palette: |
-            gray: "#4D4D4D"  # cor para quadrados
+            gray: "#4D4D4D"  # cor para quadrados (cinza escuro)
             blue: "#1E90FF"  # cor principal da cobrinha (azul)
             light-blue: "#ADD8E6"  # cor clara para bordas ou detalhes
 
-      # Commit and push the generated SVG files to the output branch
+      # Push the generated snake animation to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch
-        run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
-          git checkout --orphan output  # Se o branch não existir, cria um novo
-          git reset --hard
-          git add dist/github-contribution-grid-snake*.svg
-          git commit -m "Generate GitHub Snake"
-          git push --force origin output  # Faz o push para o branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output  # Branch onde a cobrinha gerada será armazenada
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
