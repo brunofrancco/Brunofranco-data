@@ -28,13 +28,20 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brunosilva-data}/count.svg" /></p> 
-<br></div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunosilva-data/Brunosilva-data/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunosilva-data/Brunosilva-data/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brunosilva-data/Brunosilva-data/output/github-contribution-grid-snake.svg" width="100%" style="background-color: #0033A0;">
+  </picture>
+</div>
 
 
 
-![snake animation](https://github.com/Brunosilva-data/Brunosilva-data/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
