@@ -26,8 +26,10 @@
 | <div align="center"><a href="https://python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45px" /><br><strong>Python</strong></a></div> | <div align="center"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="45px" /><br><strong>Jupyter</strong></a></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px" /><br><strong>Pandas</strong><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30px" /><br><strong>NumPy</strong><br><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30px" /><br><strong>Matplotlib</strong><br><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30px" /><br><strong>Seaborn</strong></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" /><br><strong>MySQL</strong></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px" /><br><strong>AWS</strong><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30px" /><br><strong>Google Cloud</strong></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /><br><strong>Looker Studio</strong><br><img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="30px" /><br><strong>Tableau</strong></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /><br><strong>Git</strong><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" /><br><strong>GitHub</strong></div> |
 
 
-
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brunosilva-data}/count.svg" /></p> 
+<br></div>
 
 
 
