@@ -1,4 +1,4 @@
-name: Chess_Game_olaola
+name: Chess Game
 
 on:
   issues:
@@ -17,13 +17,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          pip install chess cairosvg discord-webhook
+          pip install python-chess cairosvg discord-webhook
 
-      - name: Execute Python Script to Process Move
+      - name: Run the chess move script
         run: |
-          python3 scripts/process_move.py "${{ github.event.issue.title }}"  # Ajuste o caminho caso necessário
+          python3 readme_chess.py "${{ github.event.issue.title }}"
 
       - name: Commit changes
         run: |
