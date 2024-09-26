@@ -27,21 +27,23 @@
 
 
 
-# Meu Projeto
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Brunosilva-data/Brunosilva-data/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Brunosilva-data/Brunosilva-data/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-# contador de visitas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brunosilva-data/Brunosilva-data/output/github-contribution-grid-snake.svg#gh-light-mode-only" style="width: 100%;" alt="GitHub Snake Light" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brunosilva-data/Brunosilva-data/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" style="width: 100%;" alt="GitHub Snake Dark" />
+</p>
+
+
+
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/Brunosilva-data/count.svg" /></p> 
   <br>
 </div>
-
-
-
 
 
 
