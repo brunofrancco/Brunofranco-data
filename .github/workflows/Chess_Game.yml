@@ -1,0 +1,35 @@
+name: Chess_Game_olaola
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  process-move:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install chess cairosvg discord-webhook
+
+      - name: Execute Python Script to Process Move
+        run: |
+          python3 scripts/process_move.py "${{ github.event.issue.title }}"  # Ajuste o caminho caso necessário
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated board after move"
+          git push
+
