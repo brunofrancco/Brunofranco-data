@@ -47,4 +47,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0033A0&height=120&section=footer"/>%22Submit+new+issue%22.+Voc%C3%AA+n%C3%A3o+precisa+fazer+mais+nada+%3AD&title=Chess%3A+Move+F2+to+F3) |
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0033A0&height=120&section=footer"/>
