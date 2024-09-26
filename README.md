@@ -13,9 +13,10 @@
 
 <div align="center">  
   <a href="https://linkedin.com/in/brunnosillva/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230033A0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0033A0&center=true&vCenter=true&width=1000&lines=Skills+Overview)](https://git.io/typing-svg)
